@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776A0;
+}
+
+.hh {
+    text-align: center;
+}
+
+img {
+    margin: 20px;
+}
+
+.h {
+    color:#FF2C00;
+}
+
+.hhh {
+    border-top:2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding:10px;
+}
+
+footer {
+    background-color: #0776A0;
+    color:white;
+}
+
+footer p {
+    padding:10px;
+}
